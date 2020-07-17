@@ -1,0 +1,11 @@
+D:\ShoppingCart\ShoppingCart.DataAccess\bin\Debug\netcoreapp3.1\ShoppingCart.DataAccess.deps.json
+D:\ShoppingCart\ShoppingCart.DataAccess\bin\Debug\netcoreapp3.1\ShoppingCart.DataAccess.runtimeconfig.json
+D:\ShoppingCart\ShoppingCart.DataAccess\bin\Debug\netcoreapp3.1\ShoppingCart.DataAccess.runtimeconfig.dev.json
+D:\ShoppingCart\ShoppingCart.DataAccess\bin\Debug\netcoreapp3.1\ShoppingCart.DataAccess.dll
+D:\ShoppingCart\ShoppingCart.DataAccess\bin\Debug\netcoreapp3.1\ShoppingCart.DataAccess.pdb
+D:\ShoppingCart\ShoppingCart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingCart.DataAccess.AssemblyInfoInputs.cache
+D:\ShoppingCart\ShoppingCart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingCart.DataAccess.AssemblyInfo.cs
+D:\ShoppingCart\ShoppingCart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingCart.DataAccess.csproj.CoreCompileInputs.cache
+D:\ShoppingCart\ShoppingCart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingCart.DataAccess.dll
+D:\ShoppingCart\ShoppingCart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingCart.DataAccess.pdb
+D:\ShoppingCart\ShoppingCart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingCart.DataAccess.genruntimeconfig.cache

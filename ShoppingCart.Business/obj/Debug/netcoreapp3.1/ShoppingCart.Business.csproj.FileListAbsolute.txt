@@ -1,0 +1,14 @@
+D:\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.Business.deps.json
+D:\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.Business.dll
+D:\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.Business.pdb
+D:\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.Common.dll
+D:\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.DataAccess.dll
+D:\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.Common.pdb
+D:\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.DataAccess.pdb
+D:\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.csprojAssemblyReference.cache
+D:\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.AssemblyInfoInputs.cache
+D:\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.AssemblyInfo.cs
+D:\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.csproj.CoreCompileInputs.cache
+D:\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.csproj.CopyComplete
+D:\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.dll
+D:\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.pdb
